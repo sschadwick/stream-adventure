@@ -1,0 +1,14 @@
+{
+  "name": "concat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Chadwick <sschadwick@gmail.com> (http://www.github.com/sschadwick)",
+  "license": "ISC",
+  "dependencies": {
+    "concat-stream": "^1.5.0"
+  }
+}
